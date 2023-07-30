@@ -1,0 +1,68 @@
+body{
+    background-color: #0a0c1b;
+    overflow-x: hidden;
+}
+
+.container{
+    margin: 3em;
+}
+
+.box{
+    background-color: #1c1938;
+    border: none;
+    border-radius: 7px;
+    width: 95.5%;
+}
+
+.img-box{
+    position: absolute;
+    right: 1em;
+}
+#overlay{
+    position: absolute;
+    background-color: #7c03c283;
+    padding: 5em;
+    width: 56.3%;
+    height: 57.5%;
+    border: none;
+    border-radius: 0 9px 9px 0;
+}
+
+#the-image{
+    width: 86%;
+    border: 0;
+    border-radius: 0 7px 7px 0;
+}
+
+.textbox{
+    padding: 2em 62% 2em 4em;
+    font-family: poppins;
+    color: white;   
+    text-align: left; 
+}
+#puple{
+    color: #a754d6;
+}
+.stats{
+    padding-top: 1.5em;
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+}
+.fig{
+    font-size: 18px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(190,190, 190);
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+

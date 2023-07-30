@@ -1,0 +1,55 @@
+body{
+    background-color: #0a0c1b;
+    overflow-x: hidden;
+}
+
+.container{
+    padding: 7em 1em;
+}
+
+.box{
+    background-color: #1c1938;
+    border: none;
+    border-radius: 10px;
+    height: 100%;
+}
+
+#overlay{
+    position: absolute;
+    background-color: #7c03c283;
+    padding: 36% 43.6%;
+    border: none;
+    border-radius: 10px 10px 0 0;
+}
+#the-image{
+    width: 100%;
+    border: none;
+    border-radius: 9px 9px 0 0;
+}
+
+.textbox{
+    text-align: center;
+    padding: 10px 25px;
+    color: white;
+    font-family: Poppins;
+}
+#puple{
+    color: #a754d6;
+}
+h1{
+    font-size: 26px;
+    font-weight: bolder;
+    line-height: 1.2em;
+}
+p{
+    color: rgb(185, 185, 185);
+}
+
+.stats{
+    padding: 15px;
+}
+.fig{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
